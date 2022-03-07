@@ -6,7 +6,7 @@ from random import *
 users = range(1,21)
 users = list(users) # 오오 이게 중요하다
 
-shuffle(users) #섞기
+shuffle(users) #섞기ddd
 
 
 winners= sample(users,4) #4명 중에서 1명은 치킨 3명은 피자 주자

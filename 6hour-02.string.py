@@ -5,7 +5,7 @@ sentence2 = '파이썬은 좃밥이야'
 print(sentence2)
 
 #여러줄?
-
+dd
 sentence3= """
 나는 소년이고,
 파이썬은 쉬워요
